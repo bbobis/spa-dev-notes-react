@@ -1,2 +1,2 @@
 # spa-dev-notes-react
-Housed developer notes for SPA React POC
+Developer notes for SPA React POC
